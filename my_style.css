@@ -1,0 +1,66 @@
+#title {
+    background-clip:content-box;
+    background-color:gold;
+    border-style:double;
+    display: inline-block;
+}
+
+h3 {
+    color:white;
+    background-color:black; 
+    border-style:double;
+    display:inline-block;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  font-size:30px;
+}
+
+li {
+  display: inline;
+
+a:link {
+    text-decoration:none;
+    color:white;
+    font-family:Rockwell;
+}
+
+a:hover {
+    text-decoration:none;
+    color:yellow;
+}
+
+a:active {
+    text-decoration:none;
+    color:yellow;
+}
+
+a:link {
+    text-decoration:none;
+    text-decoration:none;
+}
+
+a.selected {
+    text-decoration:none;
+    background-color:gold;
+    color:black;
+    border-style:double;
+}
+
+body {
+    background-image:linear-gradient(to bottom right, silver, grey);
+    width:1000px;
+    height:10000px;
+}
+
+#wow {
+    color:gold;
+}
+
+iframe{
+    height:550px;
+    width:550px;
+}
