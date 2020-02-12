@@ -51,7 +51,7 @@ a.selected {
 }
 
 body {
-    background-image:linear-gradient(to bottom right, silver, grey);
+    background:(90,90,90);
     width:1000px;
     height:10000px;
 }
